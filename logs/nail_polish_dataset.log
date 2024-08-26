@@ -1,0 +1,33 @@
+2024-08-24 00:48:00,483 - root - INFO - Processing started.
+2024-08-24 00:53:07,864 - root - INFO - Processing started.
+2024-08-24 00:53:59,040 - root - INFO - Processing started.
+2024-08-24 00:54:04,541 - root - ERROR - An error occurred: Message: element click intercepted: Element <img alt=" OPI Nail Lacquer - F018 Y2Slay - 0.5oz by OPI sold by DTK Nail Supply" class="image__img addtc-hb" loading="lazy" width="1000" height="1000" src="//dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?v=1721105995&amp;width=320" srcset="//dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=150&amp;v=1721105995&amp;width=150 150w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=200&amp;v=1721105995&amp;width=200 200w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=240&amp;v=1721105995&amp;width=240 240w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=280&amp;v=1721105995&amp;width=280 280w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=300&amp;v=1721105995&amp;width=300 300w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=360&amp;v=1721105995&amp;width=360 360w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=400&amp;v=1721105995&amp;width=400 400w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=450&amp;v=1721105995&amp;width=450 450w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=500&amp;v=1721105995&amp;width=500 500w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=550&amp;v=1721105995&amp;width=550 550w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=600&amp;v=1721105995&amp;width=600 600w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=650&amp;v=1721105995&amp;width=650 650w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=700&amp;v=1721105995&amp;width=700 700w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=750&amp;v=1721105995&amp;width=750 750w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=800&amp;v=1721105995&amp;width=800 800w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=850&amp;v=1721105995&amp;width=850 850w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=900&amp;v=1721105995&amp;width=900 900w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=950&amp;v=1721105995&amp;width=950 950w, //dtknailsupply.com/cdn/shop/files/Y2Slay15ml_NLF018.jpg?crop=center&amp;height=1000&amp;v=1721105995&amp;width=1000 1000w" sizes="(max-width: 720px) calc((90vw - 12px) /2), (max-width: 1400px) calc((93.4vw - (12px * 3)) / 4), 304px" onload="javascript: this.closest('.image').classList.add('loaded')"> is not clickable at point (757, 186). Other element would receive the click: <img alt=" OPI Nail Lacquer - F018 Y2Slay - 0.5oz by OPI sold by DTK Nail Supply" class="image__img" loading="lazy" width="468" height="468" src="//dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?v=1721105995&amp;width=320" srcset="//dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=150&amp;v=1721105995&amp;width=150 150w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=200&amp;v=1721105995&amp;width=200 200w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=240&amp;v=1721105995&amp;width=240 240w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=280&amp;v=1721105995&amp;width=280 280w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=300&amp;v=1721105995&amp;width=300 300w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=360&amp;v=1721105995&amp;width=360 360w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=400&amp;v=1721105995&amp;width=400 400w, //dtknailsupply.com/cdn/shop/files/Y2Slay-topaz-enhance-4x_98b897c9-a1f6-4e3f-947c-e65205c4ca0e.jpg?crop=center&amp;height=450&amp;v=1721105995&amp;width=450 450w" sizes="(max-width: 720px) calc((90vw - 12px) /2), (max-width: 1400px) calc((93.4vw - (12px * 3)) / 4), 304px" onload="javascript: this.closest('.image').classList.add('loaded')">
+  (Session info: chrome=128.0.6613.85)
+Stacktrace:
+	GetHandleVerifier [0x007881F3+26163]
+	(No symbol) [0x00719CA4]
+	(No symbol) [0x006124C3]
+	(No symbol) [0x0065D357]
+	(No symbol) [0x0065B759]
+	(No symbol) [0x0065964B]
+	(No symbol) [0x00658C2F]
+	(No symbol) [0x0064D9AF]
+	(No symbol) [0x0067ACBC]
+	(No symbol) [0x0064D445]
+	(No symbol) [0x0067AF54]
+	(No symbol) [0x00694661]
+	(No symbol) [0x0067AA56]
+	(No symbol) [0x0064BE89]
+	(No symbol) [0x0064C8CD]
+	GetHandleVerifier [0x00A5CED3+2994963]
+	GetHandleVerifier [0x00AB1749+3341193]
+	GetHandleVerifier [0x00817ACF+614159]
+	GetHandleVerifier [0x0081F15C+644508]
+	(No symbol) [0x007227DD]
+	(No symbol) [0x0071F6D8]
+	(No symbol) [0x0071F875]
+	(No symbol) [0x00711BF6]
+	BaseThreadInitThunk [0x752BFCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x772C80CE+286]
+	RtlGetAppContainerNamedObjectPath [0x772C809E+238]
+
